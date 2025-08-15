@@ -33,9 +33,6 @@ The system is a comprehensive desktop application designed to simplify and autom
 
 The system is backed by a robust relational database designed to ensure data integrity through primary keys, foreign keys, and appropriate data types. The schema was designed to be in at least Third Normal Form (3NF) to reduce data redundancy and improve consistency.
 
-![ERD Diagram](path/to/your/erd_image.png)
-*(Replace the path above with the actual path to your ERD image in the repository)*
-
 ---
 
 ## Getting Started
